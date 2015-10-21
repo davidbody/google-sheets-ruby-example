@@ -1,6 +1,6 @@
 # Read a Google spreadsheet from Ruby
 
-Example for Iowa Ruby Brigade presentation, October 20, 2015
+Example for [Iowa Ruby Brigade](http://www.iowaruby.org/) presentation, [October 20, 2015](http://www.iowaruby.org/meetings/2015/10/)
 
 ## Steps
 
